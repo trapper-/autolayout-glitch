@@ -1,6 +1,6 @@
 # autolayout-glitch
 
-Test on device or enable the software keyboard on simulator.
+Test with iPhone and if using simulator then enable the software keyboard. 
 
 You will see many visual glitches just playing around scrolling, selecting fields and rotating.
 
